@@ -1,0 +1,9 @@
+# Secretos y Entornos
+.env
+.venv/
+venv/
+__pycache__/
+
+# Node y Next.js
+node_modules/
+.next/
