@@ -1,5 +1,7 @@
-streamlit
+fastapi
+uvicorn
 google-genai
 PyPDF2
-pandas
-altair
+python-dotenv
+python-multipart
+pydantic
